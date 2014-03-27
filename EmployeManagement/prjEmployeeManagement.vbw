@@ -1,0 +1,4 @@
+frmEmployees = 66, 87, 1241, 554, , 22, 29, 1197, 496, C
+mdlDataConnection = 44, 58, 1219, 525, 
+frmAddEmployee = 0, 0, 1175, 467, , 154, 203, 1329, 670, C
+frmEditEmployee = 154, 203, 1329, 670, Z, 0, 0, 1175, 467, C
